@@ -1,0 +1,2 @@
+class NumberIsNotFound(Exception):
+    pass
